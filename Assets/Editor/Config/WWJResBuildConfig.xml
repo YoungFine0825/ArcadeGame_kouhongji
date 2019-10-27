@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--相对于Assets目录-->
+<Resources IsGlobalBuild="false" CompressType="LZ4">
+
+  <!--                            WWJ                    -->
+  <AssetBundles>
+    <BundleGroup SrcPath = "WWJ">
+      <AssetBundle DstPath = "" prefix = "WWJ" suffix = "" life = "Cache">
+        <Asset SrcPath = "*.*" pattern = "" recursive = "true"  keep = "false" />
+      </AssetBundle>
+    </BundleGroup>
+  </AssetBundles>
+
+  <!--二进制数据-->
+  <Binarys>
+    <BinaryGroup DstPath = "WWJ_LuaScripts" >
+      <Binary SrcPath = "LuaScripts/WWJ/*.lua" recursive = "true" clear = "true" />
+    </BinaryGroup>
+  </Binarys>
+
+</Resources>

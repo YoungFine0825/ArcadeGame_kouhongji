@@ -1,0 +1,134 @@
+[19:42:35]D:------------->初始化打包配置：Win<-------------
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:全局模式，添加Flag->LZ4
+[19:42:36]D:------------->Done!<-------------
+[19:42:36]D:-->开始打包： Win
+[19:42:37]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/Fixed_Launch.ab
+[19:42:38]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/Fixed_Update.ab
+[19:42:39]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/Fixed_UICommon.ab
+[19:42:41]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/Fixed_UICfg.ab
+[19:42:41]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/Fixed_Register.ab
+[19:42:41]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/Fixed_ADPlayer.ab
+[19:42:43]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/Main_Shaders.ab
+[19:42:43]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/Main_Font.ab
+[19:42:44]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/Main_Login.ab
+[19:43:40]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/LSK_Audio.ab
+[19:43:42]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/LSK_Font.ab
+[19:43:46]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/LSK_Game.ab
+[19:43:48]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/LSK_Lipsticks.ab
+[19:43:49]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/LSK_Login.ab
+[19:43:59]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/LSK_Play.ab
+[19:44:03]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/LSK_Select.ab
+[19:44:09]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/LSK_UICommon.ab
+[19:44:13]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/LSK_Wallpaper.ab
+[19:44:24]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/LSK_Wheels.ab
+[19:44:29]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_Audio.ab
+[19:44:30]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_Dolls.ab
+[19:44:31]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_Env.ab
+[19:44:33]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_Font.ab
+[19:44:35]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_Game.ab
+[19:44:36]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_Login.ab
+[19:44:37]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_Machine.ab
+[19:45:07]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_Music.ab
+[19:45:07]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_PlayerInfo.ab
+[19:45:08]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_Select.ab
+[19:45:09]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_UICommon.ab
+[19:45:18]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_Voice.ab
+[19:45:19]D:Set BundleName Success G:/UnityPro/Arcade/Assets/../../IFS/Build/Full/Win/WWJ_Wait.ab
+[19:45:19]D:-->全局模式打包-->
+[19:51:04]D:-->检查Manifest-->
+[19:51:05]D:Exist AssetBundle:fixed_adplayer.ab
+[19:51:05]D:Exist AssetBundle:fixed_launch.ab
+[19:51:05]D:Exist AssetBundle:fixed_register.ab
+[19:51:05]D:Exist AssetBundle:fixed_uicfg.ab
+[19:51:05]D:Exist AssetBundle:fixed_uicommon.ab
+[19:51:05]D:Exist AssetBundle:fixed_update.ab
+[19:51:05]D:Exist AssetBundle:lsk_audio.ab
+[19:51:05]D:Exist AssetBundle:lsk_font.ab
+[19:51:05]D:Exist AssetBundle:lsk_game.ab
+[19:51:05]D:Exist AssetBundle:lsk_lipsticks.ab
+[19:51:05]D:Exist AssetBundle:lsk_login.ab
+[19:51:05]D:Exist AssetBundle:lsk_play.ab
+[19:51:05]D:Exist AssetBundle:lsk_select.ab
+[19:51:05]D:Exist AssetBundle:lsk_uicommon.ab
+[19:51:05]D:Exist AssetBundle:lsk_wallpaper.ab
+[19:51:05]D:Exist AssetBundle:lsk_wheels.ab
+[19:51:05]D:Exist AssetBundle:main_font.ab
+[19:51:05]D:Exist AssetBundle:main_login.ab
+[19:51:05]D:Exist AssetBundle:main_shaders.ab
+[19:51:05]D:Exist AssetBundle:wwj_audio.ab
+[19:51:05]D:Exist AssetBundle:wwj_dolls.ab
+[19:51:05]D:Exist AssetBundle:wwj_env.ab
+[19:51:05]D:Exist AssetBundle:wwj_font.ab
+[19:51:05]D:Exist AssetBundle:wwj_game.ab
+[19:51:05]D:Exist AssetBundle:wwj_login.ab
+[19:51:05]D:Exist AssetBundle:wwj_machine.ab
+[19:51:05]D:Exist AssetBundle:wwj_music.ab
+[19:51:05]D:Exist AssetBundle:wwj_playerinfo.ab
+[19:51:05]D:Exist AssetBundle:wwj_select.ab
+[19:51:05]D:Exist AssetBundle:wwj_uicommon.ab
+[19:51:05]D:Exist AssetBundle:wwj_voice.ab
+[19:51:05]D:Exist AssetBundle:wwj_wait.ab
+[19:51:05]D:Add Dependency:main_font.ab-2->Fixed_Update.ab
+[19:51:05]D:Add Dependency:main_font.ab-2->Fixed_UICommon.ab
+[19:51:05]D:Add Dependency:main_font.ab-2->Fixed_Register.ab
+[19:51:05]D:Add Dependency:main_font.ab-2->Main_Login.ab
+[19:51:05]D:Add Dependency:lsk_font.ab,lsk_wallpaper.ab,main_font.ab-2->LSK_Game.ab
+[19:51:05]D:Add Dependency:main_font.ab-2->LSK_Login.ab
+[19:51:05]D:Add Dependency:lsk_font.ab,lsk_login.ab,main_font.ab-2->LSK_Play.ab
+[19:51:05]D:Add Dependency:lsk_font.ab,lsk_login.ab,lsk_play.ab,main_font.ab-2->LSK_Select.ab
+[19:51:05]D:Add Dependency:lsk_font.ab,main_font.ab-2->LSK_UICommon.ab
+[19:51:05]D:Add Dependency:main_shaders.ab-2->LSK_Wheels.ab
+[19:51:05]D:Add Dependency:main_font.ab,wwj_font.ab-2->WWJ_Game.ab
+[19:51:05]D:Add Dependency:main_font.ab-2->WWJ_Login.ab
+[19:51:05]D:Add Dependency:main_font.ab,wwj_font.ab-2->WWJ_PlayerInfo.ab
+[19:51:05]D:Add Dependency:main_font.ab,wwj_font.ab-2->WWJ_Select.ab
+[19:51:05]D:Add Dependency:main_font.ab-2->WWJ_UICommon.ab
+[19:51:06]D:Build Resource Done.
+[19:51:06]D:-->从Full分离到Main<------
+[19:51:06]D:------------->初始化打包配置：Win<-------------
+[19:51:06]W:No file, but ignore.Main_Audio.ab
+[19:51:06]D:------------->Done!<-------------
+[19:51:06]D:-->开始打包二进制： Win
+[19:51:07]D:CMD:svn info "G:/UnityPro/Arcade/Assets/Resources"
+[19:51:07]E:Crash:Win32Exception: ApplicationName='svn', CommandLine='info "G:/UnityPro/Arcade/Assets/Resources"', CurrentDirectory=''
+System.Diagnostics.Process.Start_noshell (System.Diagnostics.ProcessStartInfo startInfo, System.Diagnostics.Process process)
+System.Diagnostics.Process.Start_common (System.Diagnostics.ProcessStartInfo startInfo, System.Diagnostics.Process process)
+System.Diagnostics.Process.Start ()
+(wrapper remoting-invoke-with-check) System.Diagnostics.Process:Start ()
+EditorSvnHelper.DoSvnInfoRivision (System.String fileOrDirPath) (at Assets/Editor/Common/EditorSvnHelper.cs:131)
+JW.Editor.Res.ResourceBuilder.DoResIFSPackage (BuildTarget target, IFSCompressType ct, Boolean firstInclude, Boolean mergeLua, System.String luaZipName) (at Assets/Editor/Res/ResourceBuilder.cs:369)
+JW.Editor.Res.MainResBuilder.SeparateBuildFromFullBuild (System.String fullBuildDir, BuildTarget target) (at Assets/Editor/MainResBuilder.cs:88)
+JW.Editor.Res.FullResBuilder.BuildWindowsResource () (at Assets/Editor/FullResBuilder.cs:54)
+JW.Editor.Res.FullResBuilder.BuildWinRes () (at Assets/Editor/FullResBuilder.cs:32)
+

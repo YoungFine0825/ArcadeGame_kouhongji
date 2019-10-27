@@ -1,0 +1,4 @@
+-unsafe
+-define:CODESTRIPPER
+-define:JW_DEBUG
+-define:THREAD_SAFE

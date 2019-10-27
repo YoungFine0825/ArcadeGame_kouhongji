@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--相对于Assets目录-->
+<Resources IsGlobalBuild="true" CompressType="LZ4">
+
+  <!-- Main Begin -->
+  <!--NoBundle Begin-->
+  <AssetBundles>
+    <AssetBundle DstPath = "Fixed_Launch.ab"  tag="Launch"  flag="NoBundle">
+      <Asset SrcPath = "Fixed/Launch/*.*" keep = "true"/>
+    </AssetBundle>
+    <AssetBundle DstPath = "Fixed_Update.ab"  tag="Update"  flag="NoBundle">
+      <Asset SrcPath = "Fixed/Update/*.*" keep = "true"/>
+    </AssetBundle>
+    <AssetBundle DstPath = "Fixed_UICommon.ab"  tag="UICommon" life = "Resident" flag="NoBundle">
+      <Asset SrcPath = "Fixed/UICommon/*.*" keep = "true"/>
+    </AssetBundle>
+    <AssetBundle DstPath = "Fixed_UICfg.ab"  tag="UICfg" life = "Resident" flag="NoBundle">
+      <Asset SrcPath = "Fixed/UICfg/*.*" keep = "true"/>
+    </AssetBundle>
+    <AssetBundle DstPath = "Fixed_Register.ab"  tag="Register" flag="NoBundle">
+      <Asset SrcPath = "Fixed/Register/*.*" keep = "true"/>
+    </AssetBundle>
+    <AssetBundle DstPath = "Fixed_ADPlayer.ab"  tag="ADPlayer" flag="NoBundle">
+      <Asset SrcPath = "Fixed/ADPlayer/*.*" keep = "true"/>
+    </AssetBundle>
+  </AssetBundles>
+
+  <!--NoBundle End-->
+
+
+  <!-- Shaders -->
+  <AssetBundles>
+    <AssetBundle DstPath = "Main_Shaders.ab" life = "Resident">
+      <Asset SrcPath = "Shaders/*.*" keep = "true" recursive = "true" />
+    </AssetBundle>
+  </AssetBundles>
+  <!--字体文件-->
+  <AssetBundles>
+    <AssetBundle DstPath = "Main_Font.ab"  life = "Resident">
+      <Asset SrcPath = "Font/*.*" recursive = "true" keep = "true" />
+    </AssetBundle>
+  </AssetBundles>
+
+  <AssetBundles>
+    
+    <AssetBundle DstPath = "Main_Login.ab"  life = "Immediate">
+      <Asset SrcPath = "Login/*.*" recursive = "false" keep = "false" />
+    </AssetBundle>
+
+  </AssetBundles>
+
+  <!--二进制数据-->
+  <Binarys>
+    <BinaryGroup DstPath = "LuaScripts" >
+      <Binary SrcPath = "LuaScripts/Common/*.lua" recursive = "true" clear = "true" />
+      <Binary SrcPath = "LuaScripts/Framework/*.lua" recursive = "true" clear = "true" />
+      <Binary SrcPath = "LuaScripts/Machine/*.lua" recursive = "true" clear = "true" />
+      <Binary SrcPath = "LuaScripts/*.lua" recursive = "false" clear = "true" />
+    </BinaryGroup>
+    <BinaryGroup DstPath = "" >
+      <Binary SrcPath = "Version.bytes" clear="false" />
+    </BinaryGroup>
+
+    <BinaryGroup DstPath = "PbFiles" >
+      <Binary SrcPath = "PbFiles/*.pb" recursive = "false" clear="true" />
+    </BinaryGroup>
+    
+    <!--视频--><!--
+    <BinaryGroup DstPath = "Video" >
+      <Binary SrcPath = "Video/*.mov" recursive = "true" clear="true" />
+    </BinaryGroup>-->
+    
+  </Binarys>
+  <!-- Main End -->
+
+  <!--                            LSK                    -->
+  <AssetBundles>
+    <BundleGroup SrcPath = "LSK">
+      <AssetBundle DstPath = "" prefix = "LSK" suffix = "" life = "Cache">
+        <Asset SrcPath = "*.*" pattern = "" recursive = "true"  keep = "false" />
+      </AssetBundle>
+    </BundleGroup>
+  </AssetBundles>
+
+  <!--二进制数据-->
+  <Binarys>
+    <BinaryGroup DstPath = "LSK_LuaScripts" >
+      <Binary SrcPath = "LuaScripts/LSK/*.lua" recursive = "true" clear = "true" />
+    </BinaryGroup>
+  </Binarys>
+
+  <!--                            WWJ                    -->
+  <AssetBundles>
+    <BundleGroup SrcPath = "WWJ">
+      <AssetBundle DstPath = "" prefix = "WWJ" suffix = "" life = "Cache">
+        <Asset SrcPath = "*.*" pattern = "" recursive = "true"  keep = "false" />
+      </AssetBundle>
+    </BundleGroup>
+  </AssetBundles>
+
+  <!--二进制数据-->
+  <Binarys>
+    <BinaryGroup DstPath = "WWJ_LuaScripts" >
+      <Binary SrcPath = "LuaScripts/WWJ/*.lua" recursive = "true" clear = "true" />
+    </BinaryGroup>
+  </Binarys>
+
+</Resources>

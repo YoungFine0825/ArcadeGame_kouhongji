@@ -1,0 +1,18 @@
+[13:12:03]D:OnApplicationPause - Application is brought to foreground.
+[13:12:03]D:--<color=yellow>Unity Start</color> --
+[13:12:03]D:Win32 GetSystemMetrics:1366:768
+[13:12:03]D:-- Init Common --
+[13:12:03]D:-- Init Framwwork --
+[13:12:03]D:处理器Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz:核心4:频率:2195
+[13:12:03]D:显卡供应商NVIDIAID=4318:版本:Direct3D 11.0 [level 11.0]:名称:NVIDIA GeForce 840M:显存:2010:Max纹理:16384:Shader等级:50
+[13:12:03]D:NetAsset Cache DiskName:G:\
+[13:12:03]D:Free disk space:
+[13:12:03]D:Available bytes : 36144717824
+[13:12:03]D:Total # of bytes: 125829115904
+[13:12:03]D:Total free bytes: 36144717824
+[13:12:03]D:-- Init Logic --
+[13:12:03]D:---<color=yellow>Run Run Run</color> ---
+[13:12:03]D:Enter Launch Game State
+[13:12:03]D:<color=yellow>UIStateService</color>--->Switch UI State from  to UILaunch<----
+[13:12:05]D:Leave Launch GameState
+[13:12:05]D:Enter Register Machine State

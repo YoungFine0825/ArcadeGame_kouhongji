@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: d9317e3cf74e5ab49a43e41406b6c447
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Boli01
+    100002: Claw_Body
+    100004: Claw_Finger
+    100006: Claw_MoveCube
+    100008: Claw_new
+    100010: Claw_Up_Joint1
+    100012: Claw_Up_Joint2
+    100014: Claw_Up_Joint3
+    100016: ClawRoot_New
+    100018: ConnectingRod1
+    100020: ConnectingRod2
+    100022: ConnectingRod3
+    100024: Finger1
+    100026: Finger2
+    100028: Finger3
+    100030: Fixed1
+    100032: Fixed2
+    100034: Fixed3
+    100036: H_Trunk_New
+    100038: Joint1Posing1
+    100040: Joint1Posing2
+    100042: Joint1Posing3
+    100044: //RootNode
+    100046: Machine_Part01
+    100048: Machine_Part02
+    100050: Machine_Part03
+    100052: MachineShell
+    100054: MachineSkin
+    100056: PrizeOut
+    100058: V_Trunk_New
+    100060: VerticalSupport_New
+    100062: Machine_Part04
+    400000: Boli01
+    400002: Claw_Body
+    400004: Claw_Finger
+    400006: Claw_MoveCube
+    400008: Claw_new
+    400010: Claw_Up_Joint1
+    400012: Claw_Up_Joint2
+    400014: Claw_Up_Joint3
+    400016: ClawRoot_New
+    400018: ConnectingRod1
+    400020: ConnectingRod2
+    400022: ConnectingRod3
+    400024: Finger1
+    400026: Finger2
+    400028: Finger3
+    400030: Fixed1
+    400032: Fixed2
+    400034: Fixed3
+    400036: H_Trunk_New
+    400038: Joint1Posing1
+    400040: Joint1Posing2
+    400042: Joint1Posing3
+    400044: //RootNode
+    400046: Machine_Part01
+    400048: Machine_Part02
+    400050: Machine_Part03
+    400052: MachineShell
+    400054: MachineSkin
+    400056: PrizeOut
+    400058: V_Trunk_New
+    400060: VerticalSupport_New
+    400062: Machine_Part04
+    2100000: lambert146
+    2100002: 07 - Default
+    2300000: Boli01
+    2300002: Claw_Body
+    2300004: Claw_Finger
+    2300006: Claw_MoveCube
+    2300008: ConnectingRod1
+    2300010: ConnectingRod2
+    2300012: ConnectingRod3
+    2300014: Finger1
+    2300016: Finger2
+    2300018: Finger3
+    2300020: Fixed1
+    2300022: Fixed2
+    2300024: Fixed3
+    2300026: Machine_Part01
+    2300028: Machine_Part02
+    2300030: Machine_Part03
+    2300032: PrizeOut
+    2300034: VerticalSupport_New
+    2300036: Machine_Part04
+    3300000: Boli01
+    3300002: Claw_Body
+    3300004: Claw_Finger
+    3300006: Claw_MoveCube
+    3300008: ConnectingRod1
+    3300010: ConnectingRod2
+    3300012: ConnectingRod3
+    3300014: Finger1
+    3300016: Finger2
+    3300018: Finger3
+    3300020: Fixed1
+    3300022: Fixed2
+    3300024: Fixed3
+    3300026: Machine_Part01
+    3300028: Machine_Part02
+    3300030: Machine_Part03
+    3300032: PrizeOut
+    3300034: VerticalSupport_New
+    3300036: Machine_Part04
+    4300000: Claw_Body
+    4300002: ConnectingRod1
+    4300004: Fixed1
+    4300006: ConnectingRod2
+    4300008: Fixed2
+    4300010: ConnectingRod3
+    4300012: Fixed3
+    4300014: Claw_Finger
+    4300016: Finger1
+    4300018: Finger2
+    4300020: Finger3
+    4300022: Claw_MoveCube
+    4300024: VerticalSupport_New
+    4300026: PrizeOut
+    4300028: Boli01
+    4300030: Machine_Part03
+    4300032: Machine_Part02
+    4300034: Machine_Part01
+    4300036: Machine_Part04
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

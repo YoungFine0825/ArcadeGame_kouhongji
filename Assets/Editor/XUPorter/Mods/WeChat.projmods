@@ -1,0 +1,33 @@
+{
+    "group": "WeChat",
+    "libs": [
+    			"libz.dylib", 
+    			"libc++.dylib",
+				"libsqlite3.0.dylib",
+				"libc++.dylib",
+    		],
+    "frameworks": [
+	 				"SystemConfiguration.framework",
+    				"Security.framework",
+					"CoreTelephony.framework",
+					"CFNetwork.framework",
+					"PassKit.framework",
+					"StoreKit.framework"
+					"WebKit.framework"
+    			  ],
+    "headerpaths": [],
+    "files":   [
+                	"../../../Plugins/iOS/libWeChatSDK.a",
+                	"../../../Plugins/iOS/WXApi.h",
+					"../../../Plugins/iOS/WXApiObject.h"
+					"../../../Plugins/iOS/WechatAuthSDK.h"
+                ],
+    "folders": [],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "compiler_flags": [],
+    "linker_flags": [
+    					"-ObjC",
+						"-all_load",
+    				]
+
+}
